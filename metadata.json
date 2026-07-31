@@ -1,0 +1,12 @@
+{
+  "name": "Krithiq AI",
+  "description": "A premium AI super app for verification, civic intelligence, and community engagement, solving real-world problems with production-grade security.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
